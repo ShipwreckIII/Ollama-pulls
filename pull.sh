@@ -8,6 +8,14 @@ models=(
   dolphin-mixtral
   orca-mini
   phi3
+  phi4
+  o4-mini
+  gemma:3n
+  medgemma
+  openai-openmodel
+  deepseek-r1
+  llama4:scout
+  llama4:maverick
 )
 
 echo "📦 Starting Ollama model installation..."
